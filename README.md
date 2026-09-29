@@ -1,2 +1,1 @@
-# honeypot-threat-intel
-Honeypot deployment and analysis of attacker behavior in an isolated VirtualBox lab
+AI deception shell and honey-file alerting prototype in an isolated VirtualBox lab
